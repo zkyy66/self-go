@@ -1,0 +1,21 @@
+{
+    "name": "zkyy66/python",
+    "description": "python",
+    "type": "project",
+    "license": "Apache2.0",
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "1.2.*"
+    },
+    "repositories" :[
+        {
+            "type" : "git",
+            "url" : "https://github.com/zkyy66/self-go.git"
+        }
+    ],
+    "config" : {
+        "github-oauth": {
+          "github.com": "c2f5a23312bc41c54e084296b21830a205c27c27"
+          }
+    }
+}
